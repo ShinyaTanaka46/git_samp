@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+header {
+    background-color: #00ffff;
+}
+
+header h1 {
+    text-align : center;
+}
+
+footer p {
+	margin: 0;
+	padding: 20px 0 20px 0;
+	background-color: #00ffff;
+	color: #000000;
+	text-align: center;
+}
+footer small{
+    font-size: 120%;
+}

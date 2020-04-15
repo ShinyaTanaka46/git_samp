@@ -1,0 +1,10 @@
+@CHARSET "UTF-8";
+
+body {
+	background: azure;
+}
+
+img.image1 {
+    width: 300px;
+    height: 158px;
+}
